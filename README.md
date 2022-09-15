@@ -12,6 +12,11 @@ https://user-images.githubusercontent.com/36480688/187566014-214ea387-908f-482f-
 
 - Computer Graphics Projects from HPG program of University of Leeds
   - Most of the projects are uploaded in the github repositories. 
+  - [Game Engine](https://github.com/kablouser/PlatinumEngine)
+  - [IK Simulation](https://github.com/Erdios/Skeletal-Animation-IK)
+  - [Cloth Simulation](https://github.com/Erdios/ClothSimulation)
+  - [Deferred Rendering](https://github.com/Erdios/Vulkan_Deferred_Rendering)
+  - [Mipmap & Anisotropy](https://github.com/Erdios/Vulkan_Mipmap-Anisotropy)
 
 https://user-images.githubusercontent.com/36480688/187568396-22866d81-1f7c-433e-a98e-48c5cf9e0f5b.mp4
 
