@@ -11,9 +11,8 @@ https://user-images.githubusercontent.com/36480688/187566014-214ea387-908f-482f-
 
 
 - Computer Graphics Projects from HPG program of University of Leeds
-
-
-https://user-images.githubusercontent.com/36480688/187568396-22866d81-1f7c-433e-a98e-48c5cf9e0f5b.mp4
+  - Most of the projects are uploaded in the github repositories. 
+    https://user-images.githubusercontent.com/36480688/187568396-22866d81-1f7c-433e-a98e-48c5cf9e0f5b.mp4
 
 - A [2D rogue-like project](https://github.com/Erdios/BrokenHeart) for undergraduate FYP
 
